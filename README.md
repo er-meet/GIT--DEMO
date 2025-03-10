@@ -1,4 +1,4 @@
 # GIT--DEMO
 THIS IS MY THIRD REPOSITORY FOR CURSOR
 <br>
-Author - Meet Tank
+Author - Meet (Tank)
